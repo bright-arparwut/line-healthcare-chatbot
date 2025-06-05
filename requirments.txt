@@ -1,0 +1,7 @@
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
+line-bot-sdk
+python-dotenv
+google-adk
